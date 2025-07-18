@@ -1,0 +1,8 @@
+[
+  { "type": "Sedan", "plateNumber": "B 1234 ABC", "UserId": 1 },
+  { "type": "Suv", "plateNumber": "D 5678 XYZ", "UserId": 2 },
+  { "type": "Minibus", "plateNumber": "F 9012 DEF", "UserId": 3 },
+  { "type": "Sedan", "plateNumber": "G 3456 GHI", "UserId": 4 },
+  { "type": "Sedan", "plateNumber": "H 7890 JKL", "UserId": 5 },
+  { "type": "Minibus", "plateNumber": "M 2345 NOP", "UserId": 6 }
+]

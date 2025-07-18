@@ -1,0 +1,72 @@
+[
+  {
+    "startLocation": "Jakarta",
+    "destination": "Bandung",
+    "departureTime": "2023-05-10 10:00:00",
+    "arrivalTime": "2023-05-10 13:00:00",
+    "price": 75000,
+    "seats": 3,
+    "VehicleId": 1,
+    "createdBy": 1
+  },
+  {
+    "startLocation": "Surabaya",
+    "destination": "Malang",
+    "departureTime": "2023-05-15 12:00:00",
+    "arrivalTime": "2023-05-15 18:00:00",
+    "price": 150000,
+    "seats": 12,
+    "VehicleId": 2,
+    "createdBy": 2
+  },
+  {
+    "startLocation": "Bandung",
+    "destination": "Yogyakarta",
+    "departureTime": "2023-06-01 09:00:00",
+    "arrivalTime": "2023-06-01 15:00:00",
+    "price": 225000,
+    "seats": 4,
+    "VehicleId": 3,
+    "createdBy": 3
+  },
+  {
+    "startLocation": "Medan",
+    "destination": "Banda Aceh",
+    "departureTime": "2023-06-03 11:00:00",
+    "arrivalTime": "2023-06-03 16:00:00",
+    "price": 350000,
+    "seats": 5,
+    "VehicleId": 4,
+    "createdBy": 4
+  },
+  {
+    "startLocation": "Medan",
+    "destination": "Banda Aceh",
+    "departureTime": "2023-06-03 11:00:00",
+    "arrivalTime": "2023-06-03 16:00:00",
+    "price": 350000,
+    "seats": 0,
+    "VehicleId": 4,
+    "createdBy": 3
+  },
+  {
+    "startLocation": "Yogyakarta",
+    "destination": "Surabaya",
+    "departureTime": "2023-05-20 08:00:00",
+    "arrivalTime": "2023-05-20 14:00:00",
+    "price": 180000,
+    "seats": 6,
+    "VehicleId": 5,
+    "createdBy": 5
+  },
+  {
+    "startLocation": "Bali",
+    "destination": "Lombok",
+    "departureTime": "2023-05-25 09:00:00",
+    "arrivalTime": "2023-05-25 12:00:00",
+    "price": 120000,
+    "seats": 8,
+    "VehicleId": 6,
+    "createdBy": 6
+  }
+]

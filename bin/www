@@ -1,0 +1,14 @@
+if (process.env.NODE_ENV !== "production") {
+  require("dotenv").config();
+}
+
+const app = require("../app");
+const port = process.env.PORT || 4002;
+const morgan = require("morgan");
+const logger = require("../helpers/logger");
+
+app.use(morgan("tiny"));
+
+app.listen(port, () => {
+  logger.info(`App listening on port ${port}`);
+});

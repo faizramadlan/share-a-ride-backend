@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Zinidin Zidhan",
+    "email": "nanasharum97@gmail.com",
+    "password": "12345678",
+    "phoneNumber": "555-1234",
+    "photo": "https://cdn.discordapp.com/attachments/1091093377052844062/1106204372582547517/IMG_20230511_191111.jpg",
+    "idCardImg": "https://drive.google.com/file/d/1J_xOpx7DYN8BvwhaaTsm6ru1GGWGzCsa/view?usp=sharing",
+    "rating": 4.5,
+    "status": "verified",
+    "address": "Jl. Jendral Sudirman No. 123, Jakarta",
+    "money": 1000000
+  },
+  {
+    "name": "Dewi Rahayu",
+    "email": "dewirahayu@contoh.com",
+    "password": "sandikupassword!",
+    "phoneNumber": "555-5678",
+    "photo": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/02/13/2977329104.jpg",
+    "idCardImg": "https://contoh.com/dewirahayu-id.png",
+    "rating": 3.8,
+    "status": "verified",
+    "address": "Jl. Ahmad Yani No. 45, Surabaya",
+    "money": 500000
+  },
+  {
+    "name": "Bambang Surya",
+    "email": "bsurya@contoh.com",
+    "password": "password123",
+    "phoneNumber": "555-2468",
+    "photo": "https://img.celebrities.id/okz/800/607Kei/master_T1j289v1Xt_1039_ariel_noah.jpg",
+    
+    "idCardImg": "https://drive.google.com/file/d/1J_xOpx7DYN8BvwhaaTsm6ru1GGWGzCsa/view?usp=sharing",
+    "rating": 4.2,
+    "status": "verified",
+    "address": "Jl. Merdeka No. 78, Bandung"
+  },
+  {
+    "name": "Anita Wijaya",
+    "email": "awijaya@contoh.com",
+    "password": "biarkanaku",
+    "phoneNumber": "555-1357",
+    "photo": "https://img.esportsku.com/wp-content/uploads//2022/02/272041446_904811803552438_2847940074330088073_n-1200x1198.jpg",
+    "idCardImg": "https://cdn.discordapp.com/attachments/1098179050394107955/1106232994831806594/image.png",
+    "rating": 4.7,
+    "status": "unverified",
+    "address": "Jl. Gatot Subroto No. 10, Surakarta"
+  },
+  {
+    "name": "Rudi Hidayat",
+    "email": "rudihidayat@contoh.com",
+    "password": "rudi12345",
+    "phoneNumber": "555-9876",
+    "photo": "https://img.jakpost.net/c/2016/04/27/2016_04_27_3756_1461747885._large.jpg",
+    "idCardImg": "https://contoh.com/rudihidayat-id.png",
+    "rating": 4.1,
+    "status": "verified",
+    "address": "Jl. Diponegoro No. 50, Yogyakarta",
+    "money": 800000
+  },
+  {
+    "name": "Siti Mulyani",
+    "email": "siti.mulyani@contoh.com",
+    "password": "siti321",
+    "phoneNumber": "555-6543",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Finance_Ministry_Sri_Mulyani_Indrawati_2016.jpg",
+    "idCardImg": "https://contoh.com/sitimulyani-id.png",
+    "rating": 4.3,
+    "status": "verified",
+    "address": "Jl. Sudirman No. 789, Medan",
+    "money": 620000
+  },
+  {
+    "name": "Anton Antono",
+    "email": "dewicahyani@contoh.com",
+    "password": "dewi789",
+    "phoneNumber": "555-2468",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtfKbCCdYoci8vf5YUDyta_yQC-vAw-xMV1_lievQjEMPxcph",
+    "idCardImg": "https://drive.google.com/file/d/1J_xOpx7DYN8BvwhaaTsm6ru1GGWGzCsa/view?usp=sharing",
+    "rating": 4.6,
+    "status": "unverified",
+    "address": "Jl. Gatot Subroto No. 123, Surabaya"
+  }
+]
