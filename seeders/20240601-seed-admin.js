@@ -7,24 +7,24 @@ module.exports = {
     await queryInterface.bulkInsert('Admins', [
       {
         name: 'Super Admin',
-        email: 'superadmin@example.com',
-        password: bcrypt.create('superadminpass'),
+        email: 'superadmin@test.com',
+        password: bcrypt.create('test123'),
         role: 'superadmin',
         createdAt: new Date(),
         updatedAt: new Date()
       },
       {
         name: 'Admin User',
-        email: 'admin@example.com',
-        password: bcrypt.create('adminpass'),
+        email: 'admin@test.com',
+        password: bcrypt.create('test123'),
         role: 'admin',
         createdAt: new Date(),
         updatedAt: new Date()
       },
       {
         name: 'Support Admin',
-        email: 'supportadmin@example.com',
-        password: bcrypt.create('supportpass'),
+        email: 'support@test.com',
+        password: bcrypt.create('test123'),
         role: 'support',
         createdAt: new Date(),
         updatedAt: new Date()
